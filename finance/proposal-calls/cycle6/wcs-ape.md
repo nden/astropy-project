@@ -23,13 +23,14 @@ The specific APE goals are
 5. Allow ommitting unnecessary inputs
 6. Version the API.
 
-I am setting a 2 week time frame to work on a prototype using GWCS, once the APE is approved, or at least agreement is achieved by key players. It's hard to determine
+I am setting a 2-3 week time frame to work on a prototype using GWCS, once the APE is approved, or at least agreement is achieved by key players. It's hard to determine
 how much work can be done in 2 weeks, partly because the APE may change in the future.
 
 ### Approximate Budget
 Currency: US $
 - TOTAL: $12000
 
+Range: $9600 - $14400
 
 ### Period of Performance
 
