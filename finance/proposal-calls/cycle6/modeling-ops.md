@@ -18,6 +18,8 @@ Currency: US $
 - TOTAL: $7200
 This includes 4 hours/month supporting astropy.modeling.
 
+$7200 is the minimum. Depending on how much work is needed I suggest a range of 
+$7200 - $9000.
 
 ### Period of Performance
 
